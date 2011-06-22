@@ -396,5 +396,5 @@ if __name__ == "__main__":
     # You should fill these in with a path to your YARA rules and PEiD database
     #pescan = PEScanner(files, '', '')
     #pescan = PEScanner(files, 'clamav.yara', 'userdb.txt')
-    pescan = PEScanner(files, '', '/home/najmi/malware-csm/userdb.txt')
+    #example, pescan = PEScanner(files, '', '/home/najmi/malware-csm/userdb.txt')
     pescan.collect()
