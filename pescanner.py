@@ -1,7 +1,10 @@
 #!/usr/bin/python
 # Copyright (C) 2010 Michael Ligh
-#
-# This program is free software: you can redistribute it and/or modify
+# Modified by Najmi <najmi.zabidi@gmail.com>
+# Modification notes, as suggested by Michael
+# Put exception on corrupted PE file
+# 
+#This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
